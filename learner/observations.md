@@ -1,17 +1,11 @@
 # Observations
 
-Append concise, dated evidence here only when it explains a meaningful update to `profile.md`, `state.md`, `path.md`, or `strategy.md`.
+Compact longitudinal index of consequential learning observations. Detailed milestone evidence belongs in `learner/progress/`.
 
-Format:
+## 2026-08-16 — French baseline initialized
 
-```md
-## YYYY-MM-DD — short title
+**Evidence:** The learner reported approximately one year of non-major French study at a linguistics faculty roughly 15 years ago, with little subsequent use. Current goal is conversational French for communication with French-speaking acquaintances. The learner produced: `Salut! Je m’appelle Antoine. Je habite a Russie. Je suis un programmiste et linguiste.` and `Je parle anglais et allemand. J’invente web services`.
 
-Evidence: what the learner actually did or said.
+**Inference:** The learner is not a true zero beginner. A small but usable set of basic structures remains retrievable, while morphology/prepositions, idiomatic lexical selection and orthographic detail are unstable. The extent of passive comprehension and dormant grammar is still unknown.
 
-Inference: what this suggests, with uncertainty if appropriate.
-
-Effect: what changed in the learner state, path, or teaching strategy.
-```
-
-No observations yet.
+**Effect:** Initialized `profile.md`, `state.md`, `path.md` and `strategy.md`. The next lesson should validate the baseline through natural French use rather than repeat a generic beginner placement sequence.
