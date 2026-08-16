@@ -9,51 +9,60 @@ French knowledge appears dormant but recoverable. There is enough retained mater
 
 ## Current evidence
 
-Recent spontaneous production:
+Recent spontaneous production includes:
 
 > Salut! Je m’appelle Antoine. Je habite a Russie. Je suis un programmiste et linguiste.
 
 > Je parle anglais et allemand. J’invente web services
 
+> J’ai ecri code hier. Demain je vas planner ma semain
+
+> Je vais travailler avec ma customers potential et je vais parler avec ils avec telefon. Nous venons discuter notre project
+
+> C’est une companie de ecologie. Je vais leur proposer faire le web service.
+
 ## Demonstrated strengths
 
 - Can initiate a basic French self-introduction without a template.
 - Retains high-frequency structures such as `Je m’appelle`, `je suis`, `je parle`.
-- Retains basic personal/professional vocabulary and language names.
-- Produces simple SVO clauses independently.
-- Some French lexical material is accessible after a long period without use.
+- Produces simple SVO clauses independently and can sustain several turns of a contextual exchange.
+- Can express past and future reference spontaneously: attempted `j’ai ... hier` and `demain je vais ...`.
+- After one correction, reused the indirect-object pronoun `leur` correctly in a new sentence (`Je vais leur proposer...`), suggesting rapid reactivation under contextual feedback.
+- Retains basic personal/professional vocabulary and some French lexical material after a long period without use.
 
 ## Observed weaknesses / reconstruction targets
 
 These are evidence-based but still preliminary:
 
 - Elision/contraction is not automatic: `Je habite` → `J’habite`.
-- Country/location construction is weak: `a Russie` should be `en Russie` (with correct accent in `à` where that preposition is actually required).
-- Professional noun choice is unstable/non-idiomatic: `programmiste` is not the normal choice for “programmer/developer”; likely targets include `programmeur`, `développeur`, depending on intended meaning.
-- Determiners and phrase construction around professions need testing; `Je suis ... et linguiste` gives partial evidence only.
-- Lexical transfer from English is visible: `web services` instead of a natural French formulation such as `services web` / `services en ligne`, depending on meaning.
-- `J’invente` is grammatically possible but probably not the intended verb for “I build/develop web services”; verb selection needs active reconstruction.
+- Country/location construction is weak: `a Russie` should be `en Russie`.
+- Past participles and orthography are not reliably active: `ecri` → `écrit`.
+- Near-future construction is conceptually available but conjugation was initially unstable: `je vas` → `je vais`.
+- English lexical transfer is frequent in professional/business vocabulary: `planner`, `customers potential`, `project`, `web service`.
+- Gender, articles and agreement remain unstable: `ma customers potential`, `une companie de ecologie`.
+- Verb complementation needs reconstruction: `proposer faire` requires `proposer de faire`; `discuter` typically requires `de` before its topic.
+- Pronoun selection is initially unstable (`parler avec ils`) but may reactivate quickly: `leur` was correctly reused after correction.
+- Professional noun/verb choice remains unstable/non-idiomatic (`programmiste`, `inventer` for developing services).
 - Accent/orthographic control is currently weak or not being actively retrieved.
 
 ## Not yet tested
 
 Do not assume weakness or strength yet in:
 
-- past narration;
-- future/reference to plans;
-- object pronouns;
+- extended past narration;
+- future beyond `aller + infinitif`;
+- object pronouns beyond the emerging use of `leur`;
 - negation beyond basic forms;
 - question formation across registers;
 - gender/agreement under sustained production;
 - listening comprehension;
 - reading comprehension;
-- pronunciation;
-- spontaneous interaction beyond short self-description.
+- pronunciation.
 
 ## Working hypothesis
 
-The fastest route is likely retrieval and reactivation rather than beginner-style explanation from lesson 1. Test what returns under prompting, then focus teaching on turning passive/dormant knowledge into spontaneous conversational production.
+The learner can already communicate basic propositions by assembling a French grammatical frame and filling lexical gaps through English transfer. High-frequency structures appear to reactivate quickly when corrected in context. The fastest route is continued conversational production plus selective reconstruction of French chunks, verb complementation, pronouns and high-frequency morphology rather than beginner-style explanation.
 
 ## Recently changed
 
-2026-08-16 — initialized from known background and first spontaneous French samples. A precise level remains deliberately unset pending direct diagnostic conversation.
+2026-08-16 — initial conversation confirmed spontaneous present, attempted passé composé and near-future reference. Correctly reused `leur` one turn after it was introduced, providing early evidence that contextual correction produces rapid retrieval/reactivation.
